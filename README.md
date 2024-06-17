@@ -1,14 +1,12 @@
-# Landing page concept for Cryptocurrency company
+# Landing page concept for ICPayroll
 
-## ***\* This landing page is for educational purposes only \*\***
-
-## 🚀URL🚀 : https://concept-for-cryptocurrency-company.vercel.app/
+## 🚀URL🚀 : https://icpayroll.live/
 
 ### 🖋 Designed by: [Rizki Mulyawan](https://dribbble.com/mulyawan)
 
-### 👨🏼‍💻 Developed by: [Jose Angel Rey](https://github.com/Jose-Angel-Rey)
+### 👨🏼‍💻 Developed by: [Jose Angel Rey](https://github.com/cosmasken)
 
-### 📧 [Contact me](mailto:dev.joseangel.rey@gmail.com)
+### 📧 [Contact me](mailto:arubacosmas@gmail.com)
 
 ---
 
